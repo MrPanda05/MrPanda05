@@ -16,4 +16,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/MrPanda05/MrPanda05/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/MrPanda05)
